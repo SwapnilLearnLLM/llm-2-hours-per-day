@@ -1,0 +1,1 @@
+word_list = ["mouse", "keyboard", "monitor", "cpu", "laptop", "printer", "screen", "headphones", "datebase", "router"]
