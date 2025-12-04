@@ -26,6 +26,6 @@ programming_dictionary["List"] = "A collecition of items in a particular order."
 # print(programming_dictionary)
 
 # Loop through a dictionary
-for key in programming_dictionary:
-    print(key)
-    print(programming_dictionary[key])
+# for key in programming_dictionary:
+#     print(key)
+#     print(programming_dictionary[key])

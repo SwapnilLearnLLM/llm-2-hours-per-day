@@ -23,7 +23,6 @@ while should_continue:
     name = input("What is your name?\n").lower()
     bid = int(input("What is your bid? $ "))
     bidding_info[name] = bid
-    print(bidding_info)
     other_user = input("Are there any more bidders? yes or no \n").lower()
     if other_user == "no":
         should_continue = False
